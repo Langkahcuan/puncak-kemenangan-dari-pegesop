@@ -1,2 +1,4 @@
 User-agent: *
-Disallow:
+Allow: /
+
+Sitemap: https://langkahcuan.github.io/puncak-kemenangan-dari-pegesop/
